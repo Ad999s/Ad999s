@@ -2,8 +2,7 @@
 
 ## I'm a Student!!
 
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to play soccer and play Fortnite.
+- 🌱 I’m currently learning everything 
 
 ### Spotify Playing 🎧
 
