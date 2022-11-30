@@ -1,8 +1,8 @@
-### Hi there, I'm Aditya - aka adi 👋
+### Hi there, I'm Aditya 👋
 
 ## I'm a Student!!
 
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning web development
 
 ### Spotify Playing 🎧
 
